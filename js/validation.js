@@ -98,15 +98,5 @@ function test(){
     }
     
 
-       
-      function test1(){
-
-        try{
-        var myText = document.getElementById('nasir').text()
-        alert(myText);
-        }catch(err){
-            alert(err);
-        }
-    
-    }
+     
        
